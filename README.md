@@ -3,6 +3,7 @@
 - .gg/cbw > Competitive Bedwars
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 - .gg/mtt > Minemen Tier Tests
+- .gg/att > Aurora Tier Tests
 
 **Screensharer**
 - .gg/roserbw > RoseRBW
