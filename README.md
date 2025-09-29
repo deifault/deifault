@@ -1,4 +1,8 @@
 ## About Me?
+**Owner**
+- .gg/vyronrbw > Vyron Ranked-Bedwars
+- .gg/vrbw > Volentra Ranked Bedwars
+
 **Developer**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 - .gg/mtt > Minemen Tier Tests
