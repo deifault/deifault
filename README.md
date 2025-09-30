@@ -12,7 +12,8 @@
 - .gg/roserbw > RoseRBW
 
 **Staff**
-- .gg/mtt > Minemen Tier Tests
+- .gg/mtt > Minemen Tier Tests > Helper
+- .gg/att > Aurora Tier Tests > Admin
 
 ## Contact
 - **Email**: thewskill@gmail.com
