@@ -1,7 +1,7 @@
 ## About Me?
 **Owner**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
-- .gg/vrbw > Volentra Ranked Bedwars
+- .gg/zrbw > Zyron Ranked Bedwars
 
 **Developer**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
