@@ -1,7 +1,7 @@
 ## About Me?
 **Owner**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
-- .gg/zrbw > Zyron Ranked Bedwars
+- .gg/krbw > Kyro Ranked Bedwars
 
 **Developer**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
