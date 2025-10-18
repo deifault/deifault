@@ -15,8 +15,9 @@
 - .gg/mtt > Minemen Tier Tests > Helper
 - .gg/att > Aurora Tier Tests > Admin
 
+**Retired Staff**
+- .gg/asrbw > Asian Ranked Bedwars ( Developer )
+- .gg/erbw > Eastern Ranked Bedwars ( Developer )
+
 ## Contact
-- **Email**: thewskill@gmail.com
-- **Discord**: thewskill
-- **YouTube**: thewskill
-- **X**: thewskill
+- **Discord**: deifault
