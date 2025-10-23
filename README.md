@@ -7,6 +7,7 @@
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 - .gg/mtt > Minemen Tier Tests
 - .gg/att > Aurora Tier Tests
+- .gg/asian-realm > Asian Realm
 
 **Screensharer**
 - .gg/roserbw > RoseRBW
