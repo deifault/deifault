@@ -1,7 +1,7 @@
 ## About Me?
 **Owner**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
-- .gg/aurbw > Aurexis Ranked Bedwars
+- .gg/yrbw > Yakex Ranked Bedwars
 
 **Developer**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
