@@ -3,7 +3,7 @@
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 - .gg/yrbw > Yakex Ranked Bedwars
 
-**Co-Owner
+**Co-Owner**
 - .gg/ctts > Competitive Tier Tests
 
 **Developer**
@@ -27,5 +27,3 @@
 
 ## Contact
 - **Discord**: deifault
-
-Hire Me: .gg
