@@ -27,3 +27,5 @@
 
 ## Contact
 - **Discord**: deifault
+
+Hire Me: .gg
