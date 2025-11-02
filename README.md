@@ -2,6 +2,7 @@
 **Owner**
 - .gg/vyronrbw > Vyron Ranked-Bedwars
 - .gg/yrbw > Yakex Ranked Bedwars
+- .ggaspacks > Asian Packs
 
 **Co-Owner**
 - .gg/ctts > Competitive Tier Tests
