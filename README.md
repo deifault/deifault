@@ -24,6 +24,7 @@
 - .gg/att > Aurora Tier Tests ( Developer )
 - .gg/may > May Shop ( Developer )
 - .gg/asian-realm > Asian Realm ( Developer )
+- .gg/mtt > Minemen Tier Tests
 
 ## Contact
 - **Discord**: deifault
