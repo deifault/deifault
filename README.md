@@ -6,9 +6,7 @@
 - .gg/ctts > Competitive Tier Tests
 
 **Developer**
-- .gg/vyronrbw > Vyron Ranked-Bedwars
-- .gg/mtt > Minemen Tier Tests
-- .gg/ctts > Competitive Tier Tests
+- .gg/ptts > Portent Tier Tests
 - .gg/hrbw > Hestia Ranked Bedwars
 
 **Screensharer**
@@ -25,7 +23,8 @@
 - .gg/att > Aurora Tier Tests ( Developer )
 - .gg/may > May Shop ( Developer )
 - .gg/asian-realm > Asian Realm ( Developer )
-- .gg/mtt > Minemen Tier Tests
+- .gg/mtt > Minemen Tier Tests ( Developer )
+- - .gg/ctts > Competitive Tier Tests ( Developer )
 
 ## Contact
 - **Discord**: deifault
