@@ -26,4 +26,4 @@
 - .gg/ctts > Competitive Tier Tests ( Developer )
 
 ## Contact
-- **Discord**: deifault
+
