@@ -14,8 +14,7 @@
 - .gg/lrbw > LunaRBW ( SS Manager )
 
 **Staff**
-- .gg/mtt > Minemen Tier Tests > Helper
-- .gg/att > Aurora Tier Tests > Sr. Mod
+- .gg/hrbw > Hestia Ranked Bedwars
 
 **Retired Staff**
 - .gg/asrbw > Asian Ranked Bedwars ( Developer )
@@ -24,7 +23,7 @@
 - .gg/may > May Shop ( Developer )
 - .gg/asian-realm > Asian Realm ( Developer )
 - .gg/mtt > Minemen Tier Tests ( Developer )
-- - .gg/ctts > Competitive Tier Tests ( Developer )
+- .gg/ctts > Competitive Tier Tests ( Developer )
 
 ## Contact
 - **Discord**: deifault
