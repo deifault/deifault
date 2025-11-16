@@ -1,29 +1,10 @@
 ## About Me?
-**Owner**
-- .gg/vyronrbw > Vyron Ranked-Bedwars
 
-**Co-Owner**
-- .gg/ctts > Competitive Tier Tests
+👋 Hi, I'm Malqreth — 16 y/o developer working with Java & TypeScript.  
+⚡ I build Minecraft plugins & Discord bots.  
+🚀 Always creating, always learning.
 
-**Developer**
-- .gg/ptts > Portent Tier Tests
-- .gg/hrbw > Hestia Ranked Bedwars
-
-**Screensharer**
-- .gg/roserbw > RoseRBW
-- .gg/lrbw > LunaRBW ( SS Manager )
-
-**Staff**
-- .gg/hrbw > Hestia Ranked Bedwars
-
-**Retired Staff**
-- .gg/asrbw > Asian Ranked Bedwars ( Developer )
-- .gg/erbw > Eastern Ranked Bedwars ( Developer )
-- .gg/att > Aurora Tier Tests ( Developer )
-- .gg/may > May Shop ( Developer )
-- .gg/asian-realm > Asian Realm ( Developer )
-- .gg/mtt > Minemen Tier Tests ( Developer )
-- .gg/ctts > Competitive Tier Tests ( Developer )
-
-## Contact
+# ✨ Contact Me ✨  
+Join my Discord server using the link below!
+> https://discord.gg/wW7y4cHTmT
 
