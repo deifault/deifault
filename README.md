@@ -1,6 +1,6 @@
 ## About Me?
 
-👋 Hi, I'm Malqreth — 15 y/o developer working with Java & TypeScript.  
+👋 Hi, I'm Malqreth — 16 y/o developer working with Java & TypeScript.  
 ⚡ I build Minecraft plugins & Discord bots.  
 🚀 Always creating, always learning.
 
