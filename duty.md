@@ -7,6 +7,7 @@
 **Developer**
 - .gg/ptts > Portent Tier Tests
 - .gg/hrbw > Hestia Ranked Bedwars
+- .gg/jxrbw > Jarlex RBW > Private RBW
 
 **Screensharer**
 - .gg/roserbw > RoseRBW
